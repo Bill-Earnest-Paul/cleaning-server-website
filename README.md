@@ -17,10 +17,6 @@ A responsive and visually appealing **Cleaning Service Website** built using **H
 - **jQuery** – DOM manipulation and plugin integration  
 - **bxSlider** – Lightweight and customizable image slider  
 
-## 📸 Screenshots
-
-*(Add screenshots here if you have them)*
-
 ## 📂 How to Run Locally
 
 1. Clone this repository:  
